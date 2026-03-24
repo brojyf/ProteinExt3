@@ -5,6 +5,3 @@
 baselines/DeepGO-SE
 baselines/DeepGraphGO
 baselines/test_fasta
-
-# Data
-baselines/comparison/go-basic.obo
